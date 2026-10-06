@@ -1,0 +1,20 @@
+================================
+AUDIO METADATA REPORT
+================================
+
+File Name       : freesound_community-54321-35890.mp3
+File Size       : 332.25 KB
+Container       : MP2/3 (MPEG audio layer 2/3)
+Duration        : 00:10.63
+
+AUDIO
+--------------------------------
+Codec           : MP3 (MPEG audio layer 3)
+Channels        : 1
+Channel Layout  : mono
+Sampling Rate   : 48000 Hz
+Bit Rate        : 256.00 kbps
+
+METADATA
+--------------------------------
+No additional metadata found.
