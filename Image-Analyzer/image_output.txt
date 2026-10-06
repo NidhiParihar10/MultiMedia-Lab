@@ -1,0 +1,15 @@
+================================
+IMAGE METADATA REPORT
+================================
+
+File Name       : Darjeeling.webp
+File Size       : 129.67 KB
+File Format     : WEBP
+Width           : 1600 pixels
+Height          : 900 pixels
+Resolution      : Not Available
+Color Mode      : RGB
+
+EXIF Metadata
+-------------------------------
+No EXIF metadata found.
