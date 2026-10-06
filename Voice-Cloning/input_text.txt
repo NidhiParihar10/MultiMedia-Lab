@@ -1,0 +1,5 @@
+Reference Transcript:
+Ten nine eight seven six five four three two one.
+
+Text to Generate:
+Hello everyone, this is my voice cloning project.
