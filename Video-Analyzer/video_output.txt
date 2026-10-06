@@ -1,0 +1,20 @@
+VIDEO
+--------------------------------
+Resolution      : 1920 x 1080
+Frame Rate      : 24.00 FPS
+Bit Rate        : 5005.10 kbps
+Codec           : H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+
+AUDIO
+--------------------------------
+Codec           : AAC (Advanced Audio Coding)
+Channels        : 2
+Sampling Rate   : 48000 Hz
+Bit Rate        : 253.37 kbps
+
+METADATA
+--------------------------------
+major_brand     : mp42
+minor_version   : 0
+compatible_brands: mp42mp41isomavc1
+creation_time   : 2021-04-06T03:29:15.000000Z
